@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
 url                      : https://Yeazsv91.github.io
-baseurl                  : ""
+baseurl                  : "/LJT-Homepage"
 repository               : "Yeazsv91/LJT-Homepage"
 
 # Site Author
